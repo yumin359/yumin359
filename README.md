@@ -1,5 +1,4 @@
-# 안녕하십니까!
-## 끊임없이 성장하는 개발자입니다.
+## Hi 👋
 
 <!--
 **yumin359/yumin359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
